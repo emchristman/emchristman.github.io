@@ -1,7 +1,6 @@
 # emchristman.github.io
 <html>
 <head>
-<title>Services Offered</title>
 </head>
   <body>
     <h1>Services Offered</h1>
