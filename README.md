@@ -1,8 +1,11 @@
 # emchristman.github.io
 <html>
-<head><title>Services Offered</title></head>
+<head>
+<title>Services Offered</title>
+</head>
   <body>
-    <h1>We offer a variety of services to our clients including:</h1>
+    <h1>Services Offered</h1>
+    <h2>We offer a variety of services to our clients including:</h2>
   <ol>
     <li>Housing design and development</li>
     <li>Remodeling</li>
