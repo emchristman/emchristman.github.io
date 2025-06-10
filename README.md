@@ -1,13 +1,14 @@
 # emchristman.github.io
 <html>
+<head><title>Services Offered</title></head>
   <body>
-    title: Services Offered
-    Description: 
-    1. Housing design and development
-    2. Remodeling
-    3. Construction management
-    4. Planning/pre-construction services
-    5. Inspections/post-construction services
-  
+    <h1>We offer a variety of services to our clients including:</h1>
+  <ol>
+    <li>Housing design and development</li>
+    <li>Remodeling</li>
+    <li>Construction management</li>
+    <li>Planning/pre-construction services</li>
+    <li>Inspections/post-construction services</li>
+  </ol> 
 </body>
 </html>
